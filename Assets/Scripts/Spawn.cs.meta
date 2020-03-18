@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4298e1b6f299004c8eb1d0bd42070e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plataformPrevab: {fileID: 5103463988243812797, guid: c62bd3201932b404897c7f95eff0776c,
+      type: 3}
+  - pointBarPrevab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
